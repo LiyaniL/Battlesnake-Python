@@ -1,4 +1,4 @@
-# starter-snake-python
+# Battlesnake2019-Python
 
 A simple [Battlesnake AI](http://battlesnake.io) written in Python. 
 
